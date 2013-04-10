@@ -1,0 +1,17 @@
+{
+"gruppenleiter": [
+{"Vorname":"Max", 
+"Nachname":"Muster", 
+"email":"bla@blub.de", 
+"gebdat":"xx.xx.xxxx",
+"erfahrung":"gut",
+"Schlagzeug":"SOnor",
+"Anmerkung":"bla"}
+
+{"Vorname":"Max2", 
+"Nachname":"Muster2", 
+"email":"bla@blub.de", 
+"gebdat":"xx.xx.xxxx",
+"erfahrung":"gut",
+"Schlagzeug":"SOnor",
+"Anmerkung":"bla"}]

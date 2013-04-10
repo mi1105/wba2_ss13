@@ -1,0 +1,20 @@
+
+<gruppen>
+	<gruppe>
+	<gruppenleiter>
+		<vorname>Vorname</vorname>
+		<nachname>Nachname</nachname>
+		<email>Email</email>
+		<gebdatum>Geburtsdatum</gebdatum>
+		<erfahrung>Erfahrung</erfahrung>
+		<schlagzeug>Schlagzeug</schlagzeug>
+		<anmerkung>Anmerkung</anmerkung>
+	</gruppenleiter>
+	</gruppe>
+</gruppen>
+<!--
+Grund für XML:
+-Maschinell leicht zu parsen
+-validierbar durch DTD oder Schemas
+-weit verbreiteter Standard
+-->

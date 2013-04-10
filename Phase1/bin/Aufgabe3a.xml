@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rezepte>
+	<rezept id=1>
+		<titel>Lenchen's Schokoladenkuchen</titel>
+		<bild url="bild-zum-kuchen.jpg" />
+		<zutaten>
+			<personenzahl>16</personenzahl>
+			<zutat>
+				<menge einheit="Gramm">200</menge>
+				<name>Butter</name>
+			</zutat>
+			<zutat>
+				<menge einheit="Gramm">200</menge>
+				<name>Zucker</name>
+			</zutat>
+			<zutat>
+				<menge einheit="Gramm">200</menge>
+				<name>Schokolade</name>
+			</zutat>
+			<zutat>
+				<menge einheit="Gramm">120</menge>
+				<name>Mehl</name>
+			</zutat>
+			<zutat>
+				<menge einheit="TL">0,5</menge>
+				<name>Backpulver</name>
+			</zutat>
+			<zutat>
+				<menge einheit="Packung">1</menge>
+				<name>Vanillezucker</name>
+			</zutat>
+			<zutat>
+				<menge einheit="Stück">4</menge>
+				<name>Eier</name>
+			</zutat>
+		</zutaten>
+		<zubereitung>
+			<Infos>
+				<Arbeitszeit>1Std.</Arbeitszeit>
+				<Schwierigkeitsgrad>normal</Schwierigkeitsgrad>
+				<Brennwert>295kcal</Brennwert>
+			</Infos>
+			<schritt>Butter und Schokolade im Wasserbad schmelzen</schritt>
+			<schritt>Eier trennen</schritt>
+			<schritt>Eiweiß steif schlagen</schritt>
+			<schritt>Eigelbe, Zucker und Vanillezucker verrühren</schritt>
+			<schritt>Geschmolzene Butter-Schokomasse hinzufügen und mischen</schritt> 
+			<schritt>Mehl mit dem Backpulver in die Masse sieben und zum Schluss die steifen Eiweiße vorsichtig unterheben</schritt> 
+			<schritt>In eine gut gefettete Form geben</schritt> 
+			<schritt>Bei 180°Grad 40 – 50 Minuten backen</schritt> 
+		</zubereitung>
+		<kommentare>
+			<kommentar>
+				<autor>Brigitte</autor>
+				<datum>1.1.2012</datum>
+				<text>Wer mag, kann auch noch einen Schuss Rum mit in den Teig rühren</text>
+			</kommentar>
+		</kommentare>
+	</rezept>
+</rezepte>

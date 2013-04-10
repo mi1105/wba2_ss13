@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rezepte>
-	<rezept id=1>
+	<rezept id=1_1>
 		<titel>Lenchen's Schokoladenkuchen</titel>
 		<bild url="bild-zum-kuchen.jpg" />
 		<zutaten>

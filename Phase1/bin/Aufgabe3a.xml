@@ -1,59 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rezepte>
-	<rezept id=1_1>
-		<titel>Lenchen's Schokoladenkuchen</titel>
-		<bild url="bild-zum-kuchen.jpg" />
-		<zutaten>
-			<personenzahl>16</personenzahl>
-			<zutat>
-				<menge einheit="Gramm">200</menge>
-				<name>Butter</name>
-			</zutat>
-			<zutat>
-				<menge einheit="Gramm">200</menge>
-				<name>Zucker</name>
-			</zutat>
-			<zutat>
-				<menge einheit="Gramm">200</menge>
-				<name>Schokolade</name>
-			</zutat>
-			<zutat>
-				<menge einheit="Gramm">120</menge>
-				<name>Mehl</name>
-			</zutat>
-			<zutat>
-				<menge einheit="TL">0,5</menge>
-				<name>Backpulver</name>
-			</zutat>
-			<zutat>
-				<menge einheit="Packung">1</menge>
-				<name>Vanillezucker</name>
-			</zutat>
-			<zutat>
-				<menge einheit="Stück">4</menge>
-				<name>Eier</name>
-			</zutat>
-		</zutaten>
-		<zubereitung>
-			<Infos>
-				<Arbeitszeit>1Std.</Arbeitszeit>
-				<Schwierigkeitsgrad>normal</Schwierigkeitsgrad>
-				<Brennwert>295kcal</Brennwert>
-			</Infos>
-			<schritt>Butter und Schokolade im Wasserbad schmelzen</schritt>
-			<schritt>Eier trennen</schritt>
-			<schritt>Eiweiß steif schlagen</schritt>
-			<schritt>Eigelbe, Zucker und Vanillezucker verrühren</schritt>
-			<schritt>Geschmolzene Butter-Schokomasse hinzufügen und mischen</schritt> 
-			<schritt>Mehl mit dem Backpulver in die Masse sieben und zum Schluss die steifen Eiweiße vorsichtig unterheben</schritt> 
-			<schritt>In eine gut gefettete Form geben</schritt> 
-			<schritt>Bei 180°Grad 40 – 50 Minuten backen</schritt> 
-		</zubereitung>
-		<kommentare>
-			<kommentar>
-				<autor>Brigitte</autor>
-				<datum>1.1.2012</datum>
-			</kommentar>
-		</kommentare>
-	</rezept>
-</rezepte>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rezept>
+    <titel>Lenchen’s Schokoladenkuchen</titel>
+    <bild url="http://static.chefkoch-cdn.de/ck.de/rezepte/2/2464/8082-960x720-lenchen_s_schokoladenkuchen.jpg"></bild>
+    <zutaten>
+        <zutat einheit="g" menge="200.0" name="Butter"/>
+        <zutat einheit="g" menge="200.0" name="Zucker"/>
+        <zutat einheit="g" menge="200.0" name="Schokolade,Blockschokolade"/>
+        <zutat einheit="g" menge="120.0" name="Mehl"/>
+        <zutat einheit="TL" menge="0.5" name="Backpulver"/>
+        <zutat einheit="Pkt." menge="1.0" name="Vanillezucker"/>
+        <zutat menge="4.0" name="Eier"/>
+    </zutaten>
+    <portionen anzahl="16.0"/>
+    <zubereitung>
+        <arbeitszeit>: ca. 1 Std.</arbeitszeit>
+        <schwierigkeitsgrad>normal</schwierigkeitsgrad>
+        <brennwert>295 kcal</brennwert>
+        <beschreibung>
+Butter und Schokolade im Wasserbad schmelzen. Eier trennen.
+ Eiweiß steif schlagen. Eigelbe, Zucker und Vanillezucker verrühren.
+  Geschmolzene Butter-Schokomasse hinzufügen und mischen.
+   Mehl mit dem Backpulver in die Masse sieben und zum Schluss die steifen Eiweiße 
+   vorsichtig unterheben. In eine gut gefettete Form geben. 
+Bei 180°Grad 40 – 50 Minuten backen.</beschreibung>
+    </zubereitung>
+    <kommentare>
+        <kommentar autor="Jojo" datum="2013-04-01" id="0" zeit="20:23:10">Hallo Lecker!</kommentar>
+        
+    </kommentare>
+</rezept>

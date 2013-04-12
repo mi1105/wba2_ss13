@@ -1,20 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
-<gruppen>
-	<gruppe>
-	<gruppenleiter>
-		<vorname>Vorname</vorname>
-		<nachname>Nachname</nachname>
-		<email>Email</email>
-		<gebdatum>Geburtsdatum</gebdatum>
-		<erfahrung>Erfahrung</erfahrung>
-		<schlagzeug>Schlagzeug</schlagzeug>
-		<anmerkung>Anmerkung</anmerkung>
-	</gruppenleiter>
-	</gruppe>
-</gruppen>
-<!--
-Grund für XML:
--Maschinell leicht zu parsen
--validierbar durch DTD oder Schemas
--weit verbreiteter Standard
--->
+<anmeldung>
+	<gruppe id="1">
+		<gruppenleiter>
+			<vorname>Max</vorname>
+			<nachname>Mustermann</nachname>
+			<email>Mustermann@beispiel.de</email>
+			<geburtsdatum>xx.xx.xxxx</geburtsdatum>
+			<erfahrung>Profi</erfahrung>
+			<schlagzeug>vorhanden</schlagzeug>
+			<anmerkung>Beispiel Anmerkung</anmerkung>
+		</gruppenleiter>
+
+		<personen>
+	    	<person id="1_1" >
+        		<vorname>Jan</vorname>
+        		<nachname>Schuster</nachname>
+        		<email>bla@blub.de</email>
+        		<geburtsdatum>xx.xx.xxxx</geburtsdatum>
+        		<erfahrung>Amateur</erfahrung>
+        		<schlagzeug>nicht vorhanden</schlagzeug>
+    		</person>
+    	</personen>
+    </gruppe>
+</anmeldung>

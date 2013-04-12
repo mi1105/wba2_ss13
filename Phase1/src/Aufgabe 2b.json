@@ -1,17 +1,28 @@
 {
-"gruppenleiter": [
-{"Vorname":"Max", 
-"Nachname":"Muster", 
-"email":"bla@blub.de", 
-"gebdat":"xx.xx.xxxx",
-"erfahrung":"gut",
-"Schlagzeug":"SOnor",
-"Anmerkung":"bla"}
-
-{"Vorname":"Max2", 
-"Nachname":"Muster2", 
-"email":"bla@blub.de", 
-"gebdat":"xx.xx.xxxx",
-"erfahrung":"gut",
-"Schlagzeug":"SOnor",
-"Anmerkung":"bla"}]
+  "anmeldung": {
+    "gruppe": {
+      "-id": "1_1",
+      "gruppenleiter": {
+        "vorname": "Max",
+        "nachname": "Mustermann",
+        "email": "Mustermann@beispiel.de",
+        "geburtsdatum": "xx.xx.xxxx",
+        "erfahrung": "Profi",
+        "schlagzeug": "vorhanden",
+        "anmerkung": "Beispiel Anmerkung"
+      },
+      "personen": [ { 
+        "person": {
+          "-id": "1_1",
+          "vorname": "Jan",
+          "nachname": "Schuster",
+          "email": "bla@blub.de",
+          "geburtsdatum": "xx.xx.xxxx",
+          "erfahrung": "Amateur",
+          "schlagzeug": "nicht vorhanden"
+        }
+      }
+      ]
+    }
+  }
+}
